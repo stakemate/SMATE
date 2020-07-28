@@ -1,0 +1,7 @@
+cat > poolMetaData.json << EOF
+{
+"name": "Stakemate",
+"description": "cool pool on 1.18",
+"ticker": "SMATE",
+"homepage": "https://google.com"
+}
